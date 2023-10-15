@@ -55,6 +55,9 @@ public class NamesrvStartup {
         controllerManagerMain();
     }
 
+    /*
+    test github
+    * */
     public static NamesrvController main0(String[] args) {
         try {
             parseCommandlineAndConfigFile(args);
